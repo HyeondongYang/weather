@@ -1,0 +1,10 @@
+C:\Users\iot\source\repos\weather\weather\bin\Debug\weather.exe.config
+C:\Users\iot\source\repos\weather\weather\bin\Debug\weather.exe
+C:\Users\iot\source\repos\weather\weather\bin\Debug\weather.pdb
+C:\Users\iot\source\repos\weather\weather\obj\Debug\weather.allweather.resources
+C:\Users\iot\source\repos\weather\weather\obj\Debug\weather.all_weather_btn.resources
+C:\Users\iot\source\repos\weather\weather\obj\Debug\weather.Properties.Resources.resources
+C:\Users\iot\source\repos\weather\weather\obj\Debug\weather.csproj.GenerateResource.cache
+C:\Users\iot\source\repos\weather\weather\obj\Debug\weather.csproj.CoreCompileInputs.cache
+C:\Users\iot\source\repos\weather\weather\obj\Debug\weather.exe
+C:\Users\iot\source\repos\weather\weather\obj\Debug\weather.pdb
